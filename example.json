@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "男木島の魂",
+        "description": "島を訪れた人を迎え入れる半透明の空間。屋根に多様な文字が配され、日中はその影が地面に映る。",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.05414,
+          34.422182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "タコツボル",
+        "description": "島の伝統であるタコ漁に使うタコ壺をモチーフとした遊具を制作し、港そばの空地に設置。この島には少ない子どもたちのための居場所、遊び場として解放する。芸術祭以来、男木島には移住者が増えつつあり、休校だった学校も再開した。そこで、子どもたちの成長を願い、未来に向けたプロジェクトを展開する。",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.054261,
+          34.421727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#176cf0",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.05541,
+          34.421178
+        ]
+      }
+    }
+  ]
+}
